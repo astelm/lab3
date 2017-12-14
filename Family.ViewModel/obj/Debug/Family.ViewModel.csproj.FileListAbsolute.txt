@@ -1,0 +1,8 @@
+C:\Users\Andrew\source\repos\Family\Family.ViewModel\bin\Debug\Family.ViewModel.dll
+C:\Users\Andrew\source\repos\Family\Family.ViewModel\bin\Debug\Family.ViewModel.pdb
+C:\Users\Andrew\source\repos\Family\Family.ViewModel\bin\Debug\Family.Model.dll
+C:\Users\Andrew\source\repos\Family\Family.ViewModel\bin\Debug\Family.Model.pdb
+C:\Users\Andrew\source\repos\Family\Family.ViewModel\obj\Debug\Family.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\Family\Family.ViewModel\obj\Debug\Family.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Family\Family.ViewModel\obj\Debug\Family.ViewModel.dll
+C:\Users\Andrew\source\repos\Family\Family.ViewModel\obj\Debug\Family.ViewModel.pdb

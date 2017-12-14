@@ -1,0 +1,5 @@
+C:\Users\Andrew\source\repos\Family\Family.Model\bin\Debug\Family.Model.dll
+C:\Users\Andrew\source\repos\Family\Family.Model\bin\Debug\Family.Model.pdb
+C:\Users\Andrew\source\repos\Family\Family.Model\obj\Debug\Family.Model.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Family\Family.Model\obj\Debug\Family.Model.dll
+C:\Users\Andrew\source\repos\Family\Family.Model\obj\Debug\Family.Model.pdb

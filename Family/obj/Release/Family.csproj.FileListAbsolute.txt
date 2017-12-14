@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\Family\Family\obj\Release\Family.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\source\repos\Family\Family\obj\Release\Styles\DataGridStyle.baml
+C:\Users\Andrew\source\repos\Family\Family\obj\Release\Styles\MenuStyle.baml
+C:\Users\Andrew\source\repos\Family\Family\obj\Release\App.g.cs
+C:\Users\Andrew\source\repos\Family\Family\obj\Release\MainWindow.g.cs
+C:\Users\Andrew\source\repos\Family\Family\obj\Release\Family_MarkupCompile.cache
+C:\Users\Andrew\source\repos\Family\Family\obj\Release\Family_MarkupCompile.lref
